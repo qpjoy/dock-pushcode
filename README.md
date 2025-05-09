@@ -41,5 +41,5 @@
 # 1. 在D盘新建 data 文件夹
 # 2. 启动容器
 docker-compose up
-# 3.
+# 3. 自己安装wireshark，或者导入desk的wireshark/exe 文件夹中编译
 ```
